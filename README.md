@@ -1,10 +1,6 @@
 # Identifying-Customer-Segments
 Identifying customer segments on the basis of their annual spending on diverse product categories. The dataset is available on the UCI Machine Learning Repository. https://archive.ics.uci.edu/ml/datasets/Wholesale+customers. 
-This project uses the following software and Python libraries:
-####NumPy
-pandas
-scikit-learn
-matplotlib
+This project uses the following software and Python libraries: NumPy,pandas, scikit-learn,matplotlib.
 
 # Dataset Information
 customer.csv (440 records with 6 attributes)
