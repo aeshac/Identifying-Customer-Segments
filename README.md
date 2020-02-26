@@ -11,10 +11,10 @@ customer.csv (440 records with 6 attributes)
 
 Name | Description
 -----|-------------
-FRESH|annual spending (m.u.) on fresh products (Continuous);
-MILK|annual spending (m.u.) on milk products (Continuous);
-GROCERY|annual spending (m.u.)on grocery products (Continuous);
-FROZEN|annual spending (m.u.)on frozen products (Continuous)
-DETERGENTS_PAPER|annual spending (m.u.) on detergents and paper products (Continuous)
-DELICATESSEN|annual spending (m.u.)on and delicatessen products (Continuous);
+Fresh|annual spending (m.u.) on fresh products (Continuous);
+Milk|annual spending (m.u.) on milk products (Continuous);
+Grocery|annual spending (m.u.)on grocery products (Continuous);
+Frozen|annual spending (m.u.)on frozen products (Continuous)
+Detergents_Paper|annual spending (m.u.) on detergents and paper products (Continuous)
+Delicatessen|annual spending (m.u.)on and delicatessen products (Continuous);
 
