@@ -5,7 +5,7 @@ Identifying customer segments on the basis of their annual spending on diverse p
 The goal of the project is to help the wholesale distributor to make changes in its delivery services as per the annual spending of the customer segments.
 
 # Dataset Information
-Customer.csv (440 records with 6 attributes)
+customer.csv (440 records with 6 attributes)
 
 # Attribute Information
 
